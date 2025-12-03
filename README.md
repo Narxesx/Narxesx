@@ -4,7 +4,7 @@
 I craft digital experiences and design engaging educational journeys. My passion lies at the intersection of **code**, **education**, and **game design**.
 
 ## 🔧 My Toolkit
-- **Front-End:** HTML, CSS, JavaScript (ES6+)
+- **Front-End:** HTML, CSS, JavaScript
 - **Design & Prototyping:** Figma
 - **Teaching & Content Creation:** Writing technical & educational blog posts, creating structured learning content.
 
