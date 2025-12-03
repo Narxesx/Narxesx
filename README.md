@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Narxes!  
+**Front-End Developer & Gamified Learning Advocate**
 
-<!--
-**Narxesx/Narxesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I craft digital experiences and design engaging educational journeys. My passion lies at the intersection of **code**, **education**, and **game design**.
 
-Here are some ideas to get you started:
+## 🔧 My Toolkit
+- **Front-End:** HTML, CSS, JavaScript (ES6+)
+- **Design & Prototyping:** Figma
+- **Teaching & Content Creation:** Writing technical & educational blog posts, creating structured learning content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Mission
+I'm a teacher at heart. My primary focus is **Educational Gamification**—transforming standard lessons into immersive, game-like experiences. I aim to:
+- Design and build **interactive educational games**.
+- Break down complex topics into engaging, bite-sized challenges.
+- Make learning addictive and fun for students of all ages.
+
+## 📝 What I'm Up To
+- ✍️ **Blogging** about web development, teaching methodologies, and gamification.
+- 🎮 **Designing** prototypes for educational games and interactive learning modules.
+- 📚 **Teaching** front-end development with a project-based, gamified approach.
+
+## 📫 Let's Connect & Collaborate!
+I'm always open to discussing **educational technology**, **game-based learning**, or **front-end projects** with a purpose.
+
+- **Email:** [narjes.nejati@outlook.com]
+
+*"Let's code the future of learning, one game at a time."*
