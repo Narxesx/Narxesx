@@ -17,7 +17,7 @@ I'm a teacher at heart. My primary focus is **Educational Gamification**—trans
 ## 📝 What I'm Up To
 - ✍️ **Blogging** about web development, teaching methodologies, and gamification.
 - 🎮 **Designing** prototypes for educational games and interactive learning modules.
-- 📚 **Teaching** front-end development with a project-based, gamified approach.
+- 📚 **Primary school teacher** using technology and gamification to make fundamental concepts exciting.
 
 ## 📫 Let's Connect & Collaborate!
 I'm always open to discussing **educational technology**, **game-based learning**, or **front-end projects** with a purpose.
